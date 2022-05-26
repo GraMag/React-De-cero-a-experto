@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-De-cero-a-experto/tree/main/04-gif-expert-app/static/css/main.149c123d.css",
+    "main.js": "/React-De-cero-a-experto/tree/main/04-gif-expert-app/static/js/main.7de27679.js",
+    "index.html": "/React-De-cero-a-experto/tree/main/04-gif-expert-app/index.html",
+    "main.149c123d.css.map": "/React-De-cero-a-experto/tree/main/04-gif-expert-app/static/css/main.149c123d.css.map",
+    "main.7de27679.js.map": "/React-De-cero-a-experto/tree/main/04-gif-expert-app/static/js/main.7de27679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.149c123d.css",
+    "static/js/main.7de27679.js"
+  ]
+}
