@@ -9,15 +9,17 @@ import './components/02-useEffect/effects.css';
 // import { Memorize } from './components/06-memos/Memorize';
 // import { MemoHook } from './components/06-memos/MemoHook';
 // import { CallbackHook } from './components/06-memos/CallbackHook';
-import { Padre } from './components/07-tarea-memo/Padre';
+// import { Padre } from './components/07-tarea-memo/Padre';
 // import { FocusScreen } from './components/04-useRef/FocusScreen';
 // import { FormWithCustomHook } from './components/02-useEffect/FormWithCustomHooks';
 // import { HooksApp } from './HooksApp';
 // import { MultipleCustomHooks } from './components/03-examples/MultipleCustomHooks';
 // import { SimpleForm } from './components/02-useEffect/SimpleForm';
+import './components/08-useReduce/intro-reducer';
+import { TodoApp } from './components/08-useReduce/TodoApp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <Padre />
+    <TodoApp />
 );
 
